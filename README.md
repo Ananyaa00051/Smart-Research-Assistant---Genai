@@ -111,7 +111,7 @@ http://localhost:8501
 
 ---
 
-## 🔧 Future Enhancements (Ideas)
+## 🔧working demo and  Future Enhancements (Ideas)
 
 * 🧠 Advanced memory (RAG or LangChain-style context chaining)
 * 🌐 Export answers/summaries to PDF
@@ -124,3 +124,4 @@ http://localhost:8501
 ## 👩‍💻 Built with ❤️ by [Ananyaa Sharrma](mailto:ananyaa00051@gmail.com)
 
 ---
+
